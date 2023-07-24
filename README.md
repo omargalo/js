@@ -1,2 +1,2 @@
-# JavaScript + Nodejs
-Repaso de JavaScript y Nodejs
+# JavaScript
+Repaso de JavaScript
